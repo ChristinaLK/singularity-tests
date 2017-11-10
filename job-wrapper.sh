@@ -21,5 +21,5 @@ cat .machine.ad
 #echo
 
 # your own code here 
-python test.py
+time python test.py
 echo "DONE"
