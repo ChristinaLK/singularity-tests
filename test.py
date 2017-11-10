@@ -8,7 +8,7 @@ from __future__ import print_function
 
 import tensorflow as tf
 import numpy
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 rng = numpy.random
 
 # Parameters
