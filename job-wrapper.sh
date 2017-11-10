@@ -12,13 +12,14 @@ cat .job.ad
 echo
 cat .machine.ad
 
-echo
-nvidia-smi
-echo
+#echo
+#nvidia-smi
+#echo
 
-echo
-nvcc --version 
-echo
+#echo
+#nvcc --version 
+#echo
 
 # your own code here 
 python test.py
+echo "DONE"
