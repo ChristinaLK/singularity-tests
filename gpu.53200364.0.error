@@ -1,0 +1,11 @@
+2017-11-14 08:08:33.962708: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2
+2017-11-14 08:08:36.344534: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:892] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2017-11-14 08:08:36.344981: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1030] Found device 0 with properties: 
+name: Tesla C2050 major: 2 minor: 0 memoryClockRate(GHz): 1.147
+pciBusID: 0000:02:00.0
+totalMemory: 2.56GiB freeMemory: 2.47GiB
+2017-11-14 08:08:36.345024: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1093] Ignoring visible gpu device (device: 0, name: Tesla C2050, pci bus id: 0000:02:00.0, compute capability: 2.0) with Cuda compute capability 2.0. The minimum required Cuda capability is 3.0.
+
+real	2m7.434s
+user	0m27.181s
+sys	0m5.417s
